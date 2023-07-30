@@ -1,0 +1,21 @@
+{
+  "name": "knights-travails",
+  "version": "1.0.0",
+  "description": "The Chess Knight Shortest Path Calculator is a JavaScript program designed to determine the shortest path a chess knight can take between two given locations on a standard 8x8 chessboard.",
+  "main": "knightTravails.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejcanoy/knights-travails.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ejcanoy/knights-travails/issues"
+  },
+  "homepage": "https://github.com/ejcanoy/knights-travails#readme"
+}
